@@ -1,3 +1,24 @@
+What is this fork?
+=================
+
+This fork is a project I have begun to work on in order to make Gridcoin (see below) a more practical cryptocurrency. To add protocols legitimizing its use as a store of value, and to update the source code to include some of the new improvements of other cryptocurrencies.
+
+Gridcoin's innovation at the intersection of distributed computing and blockchain is underutilized in its current application. Limiting the use of its computing power to BOINC projects is not a good use of the potential. 
+
+Dispite the use of "fork" so far, this will not be a fork of Gridcoin. I do not wish to stop the current work that Gridcoin is doing for projects on BOINC, because it is doing good in its current capacity. This will simply be a new coin using much of the same source code as Gridcion. Think of the relationship of Litecoin to Bitcoin if you are familiar. 
+
+This new coin will work with a new custom platform that allows anyone, not just research or scientific projects, to post computing tasks for completion by the existing network or computers on the coin. 
+
+Miners on the network will not choose specific projects to work on, they will be randomly assigned to the tasks with the highest priority on the network. 
+
+Incentives and network security will be very similar to Gridcoin with Proof-of-Stake and a protocol like GRCResearch-Mint rewarding miners based on their relative processing contribution to the platform. 
+
+There will not be unlimited coin issuance like Gridcoin. The new coin will follow a reward pattern more like Bitcoin, where it starts out rewarding miners with the issuance of new coins through coinbase transaction as well as network fees. And as time goes on, coinbase transactions will get smaller and smaller until the miner reward consists soley of network fees. 
+
+The main use of the coin will be for paying miners to compute, and for collecting payments from users who want to post computing tasks on the network. But in order for these payments to actually have value, this new coin needs to have a heavier focus on being useful as a store of value and a currency apart from the built in use of transacting for computing power. This coin should have all the benifits and use cases of Bitcoin, plus the added built in use of transactions for compute power. 
+
+The end goal is to have this new coin feel just like Bitcoin for normal users, but for miners like Gridcoin. And as well shift the focus of the compute power away from the limiting BOINC platform, to a custom platform allowing anyone to pay for access to the network of computing power available. 
+
 What is Gridcoin?
 =================
 
