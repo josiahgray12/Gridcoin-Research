@@ -1,6 +1,8 @@
 What is this fork?
 =================
 
+tldr; replace BOINC with custom platform to allow anyone to pay for access to computing power, cap amount of coins that will be produced, add focus for use outside of transaction for compute power.
+
 This fork is a project I have begun to work on in order to make Gridcoin (see below) a more practical cryptocurrency. To add protocols legitimizing its use as a store of value, and to update the source code to include some of the new improvements of other cryptocurrencies.
 
 Gridcoin's innovation at the intersection of distributed computing and blockchain is underutilized in its current application. Limiting the use of its computing power to BOINC projects is not a good use of the potential. 
@@ -18,6 +20,8 @@ There will not be unlimited coin issuance like Gridcoin. The new coin will follo
 The main use of the coin will be for paying miners to compute, and for collecting payments from users who want to post computing tasks on the network. But in order for these payments to actually have value, this new coin needs to have a heavier focus on being useful as a store of value and a currency apart from the built in use of transacting for computing power. This coin should have all the benifits and use cases of Bitcoin, plus the added built in use of transactions for compute power. 
 
 The end goal is to have this new coin feel just like Bitcoin for normal users, but for miners like Gridcoin. And as well shift the focus of the compute power away from the limiting BOINC platform, to a custom platform allowing anyone to pay for access to the network of computing power available. 
+
+Another change will be how data is distributed to systems for computing. Many possible users for this compute network may require that the data they are processing on the network be secure from the machines actually doing the processing. The concept of homomorphic encryption allows for data to be manipulated without ever being decrypted by the machines doing the manipulation. Usually data must be decrypted in the RAM before it can be operated on, but using homomorphic encryption techniques, someone can send their encryted data out to the network without any concern that anyone operating on the data is able to see what is being done. The user is the only one with access to their private decryption keys. There is of course a performance impact when using this strategy, so there will remain an option for users to opt out of the added security in case they truly have no interest in keeping their project private.
 
 What is Gridcoin?
 =================
